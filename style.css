@@ -8,10 +8,14 @@ body{
 }
 /* Configurar o cabeçalho do projeto */
 header{
-    
+    background: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
 }
 /* Configura foto do curriculo */
-.foto-perfil.{
+.foto-perfil{
 width: 10px;
 height: 10px;
 border-radius: 50%;
