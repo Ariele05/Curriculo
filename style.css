@@ -16,8 +16,8 @@ header{
 }
 /* Configura foto do curriculo */
 .foto-perfil{
-width: 10px;
-height: 10px;
+width: 200px;
+height: 200px;
 border-radius: 50%;
 border: 3px solid white;
 }
