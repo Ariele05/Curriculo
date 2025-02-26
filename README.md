@@ -16,7 +16,7 @@
 
 ## Design
 
-### Design simples para organizar as informações, a foto foi deixada em um forma circular e o cabeçalho foi destacado com a cor preta
+### Design simples para organizar as informações, a foto foi deixada em uma forma circular e o cabeçalho foi destacado com a cor preta
 ![alt text](image-6.png)
 
 ### Para dividir as informações foram feitas "caixas" para cada seção, que também foram estilizadas
